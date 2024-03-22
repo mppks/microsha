@@ -15,3 +15,9 @@ mc_wheel.stl - 4
 mc_wheel_bearing.stl - 8
 mc_wheel_hub.stl - 2
 mc_wheel_slave_cap.stl - 2
+
+mc_ultrasonic_cap.stl - 1
+mc_ultrasonic_box.stl - 1
+
+mc_bucket.stl - 1
+mc_bucket_fastening.stl - 1
