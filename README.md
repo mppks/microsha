@@ -3,7 +3,7 @@ Arduino tracked platform
 
 ![Microsha](https://github.com/mppks/microsha/blob/main/microsha.jpg)
 
-## The following components are used in the project:
+### The following components are used in the project:
 - Arduino UNO
 - Arduino USB Host shield 2.0
 - Motor GA12-N20 DC 6V
